@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tchrlton/address-bloc/issues"
   },
-  "homepage": "https://github.com/tchrlton/address-bloc#readme"
+  "homepage": "https://github.com/tchrlton/address-bloc#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
 }
